@@ -23,8 +23,8 @@
 
   # Usage
   You can click on the link above to use the application. If you are choosing to run the application on your local device, open the terminal and run ```npm run seed``` to seed the database, and run ```npm start``` to start the application. Open the application in your localhost afterwards.
-  ![](images/screenshot.png)
-  ![](images/screenshot2.png)
+  ![](/images/screenshot.png)
+  ![](/images/screenshot2.png)
 
   # Tests
   There are no tests included in this project.
