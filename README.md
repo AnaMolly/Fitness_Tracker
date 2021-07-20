@@ -6,6 +6,10 @@
   This application is a workout tracker that enables the user to create, view and track daily workouts. The user can log multiple exercises in a single workout. The app is able to track the name, type, weight, sets, reps and duration of resistence exercises in addition to the name, distance and duration of cardio exercises. The user is also able to track their total duration and weight of multiple exercises for the week with the help of charts. This application was made using Express.js, MongoDB and Mongoose.
   
 
+  ## Deployed application: 
+  
+  https://ronchon-chocolatine-75843.herokuapp.com/
+
   # Table of Contents
   - [Installation Instructions](#installation-instructions)
   - [Usage Instructions](#usage)
